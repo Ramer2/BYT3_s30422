@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s30422_assignment3_shapes",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests_Shapes", "UnitTests_Shapes\UnitTests_Shapes.csproj", "{9643CC8B-F727-4196-B64B-9C20276A1BB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s30422_assignment3_calculator", "s30422_assignment3_calculator\s30422_assignment3_calculator.csproj", "{DF4B2601-5B07-41A2-BF06-368CCDA6B8AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests_Calculator", "UnitTests_Calculator\UnitTests_Calculator.csproj", "{C0E82AD4-0FC5-43CE-8A08-29BEF70A6853}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{9643CC8B-F727-4196-B64B-9C20276A1BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9643CC8B-F727-4196-B64B-9C20276A1BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9643CC8B-F727-4196-B64B-9C20276A1BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF4B2601-5B07-41A2-BF06-368CCDA6B8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4B2601-5B07-41A2-BF06-368CCDA6B8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4B2601-5B07-41A2-BF06-368CCDA6B8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4B2601-5B07-41A2-BF06-368CCDA6B8AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E82AD4-0FC5-43CE-8A08-29BEF70A6853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E82AD4-0FC5-43CE-8A08-29BEF70A6853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E82AD4-0FC5-43CE-8A08-29BEF70A6853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E82AD4-0FC5-43CE-8A08-29BEF70A6853}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
