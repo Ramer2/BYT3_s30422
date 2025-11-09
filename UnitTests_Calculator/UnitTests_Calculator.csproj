@@ -21,4 +21,8 @@
         <Using Include="NUnit.Framework"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\s30422_assignment3_calculator\s30422_assignment3_calculator.csproj" />
+    </ItemGroup>
+
 </Project>
